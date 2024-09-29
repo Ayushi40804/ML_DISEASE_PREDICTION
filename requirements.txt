@@ -1,0 +1,4 @@
+Set up the environment with the following command:
+python -m venv venv
+venv/scripts/activate  
+pip install numpy pandas scipy matplotlib seaborn scikit-learn
